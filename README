@@ -2,9 +2,8 @@
 *** COPYRIGHT NOTICE *******************************************************************************
 privHRG - fits a Hierarchical Random Graph (HRG) model to data under differential privacy
 This program is heavily based on Aaron Clauset's Hierarchical Random Graphs project
-(http://tuvalu.santafe.edu/%7Eaaronc/hierarchy/). All their programs are put online publicly and 
-an redistributed and modified under the terms of the GNU General Public License. Please see the detailed copyright claims in fitHRG.h
-and give credits to original authors of HRG if you use these programs.
+(http://tuvalu.santafe.edu/%7Eaaronc/hierarchy/). All their programs are put online publicly and redistributed and modified under the terms of the GNU General Public License. Please see the detailed copyright claims in their programs and give credits to original authors of HRG if you use these programs.
+
 This program is freely distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. 
 If you have any questions upon this program, please contact XIAO Qian (xiaoqiannus@gmail.com).
 
