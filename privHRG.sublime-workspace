@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"java",
+				"javac"
+			],
+			[
+				"ma",
+				"max_score_index"
+			],
+			[
+				"is",
+				"iscores_equil"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"score",
+				"score_2"
+			],
+			[
+				"sc",
+				"score_1"
+			],
+			[
+				"u",
+				"userid"
+			],
+			[
+				"cl",
+				"Claudio"
+			],
+			[
+				"ta",
+				"task"
+			],
+			[
+				"iscore",
+				"iscore_table"
+			],
+			[
+				"dec",
+				"declarative_base"
+			],
+			[
+				"redi",
+				"redis_conn"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/myJava.sublime-build",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: Build"
+			],
+			[
+				"PACKA",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Custom Command"
+			],
+			[
+				"git:cu",
+				"Git: Custom Command"
+			],
+			[
+				"git:url",
+				"Git: Open Config Url"
+			],
+			[
+				"git:",
+				"Git: Open Config Url"
+			],
+			[
+				"git:pu",
+				"Git: Push"
+			],
+			[
+				"git:com",
+				"Git: Commit"
+			],
+			[
+				"git:ad",
+				"Git: Add..."
+			],
+			[
+				"snippet",
+				"Snippet: footnote"
+			],
+			[
+				"snippet:",
+				"Snippet: Figure"
+			],
+			[
+				"sn",
+				"Snippet: Figure"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"late",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"togg",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"toggle",
+				"LaTeXTools: Toggle focus (PDF/editor)"
+			],
+			[
+				"snip",
+				"Snippet: Equation"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Figure"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package con",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pacage",
+				"Package Control: Install Package"
+			],
+			[
+				"git:st",
+				"Git: Status"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Latex",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Sub",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"Su",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"SUB",
+				"SublimeREPL: Python"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"Pak",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"P ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 219.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/xiaoqian/Dropbox/research/HRG_diff/fitHRG_diff_appcode/test.sh",
+		"/Users/xiaoqian/Dropbox/Git/PrivHRG/privHRG/src/main.cpp",
+		"/Users/xiaoqian/Dropbox/Git/PrivHRG/privHRG/PrivHRG.sublime-workspace",
+		"/Users/xiaoqian/Dropbox/Git/PrivHRG/privHRG/PrivHRG.sublime-project",
+		"/Users/xiaoqian/Dropbox/Git/PrivHRG/privHRG/src/fitHRG.h",
+		"/Users/xiaoqian/Dropbox/Git/PrivHRG/makefile",
+		"/Users/xiaoqian/Dropbox/research/HRG_diff/fitHRG_diff_appcode/Makefile-fitHRG_diff_appcode.mk",
+		"/Users/xiaoqian/Library/Application Support/Sublime Text 2/Packages/User/myJava.sublime-build",
+		"/Users/xiaoqian/Desktop/hello_world.java",
+		"/Users/xiaoqian/Dropbox/Unsorted/tutorials/codes/spaceremoval/spaceremoval.sublime-project",
+		"/Users/xiaoqian/Dropbox/Unsorted/tutorials/codes/spaceremoval/spaceremoval.c",
+		"/Users/xiaoqian/Desktop/spaceremoval.c",
+		"/Users/xiaoqian/Library/Application Support/Sublime Text 2/Packages/User/SublimeGDB.sublime-settings",
+		"/Users/xiaoqian/Dropbox/Unsorted/tutorials/codes/hello.sublime-project",
+		"/Users/xiaoqian/Dropbox/Unsorted/tutorials/codes/spaceremoval.c",
+		"/Users/xiaoqian/Library/Application Support/Sublime Text 2/Packages/SublimeGDB/Default.sublime-keymap",
+		"/Users/xiaoqian/Library/Application Support/Sublime Text 2/Packages/User/my_script.sublime-build",
+		"/Users/xiaoqian/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/xiaoqian/Dropbox/Unsorted/tutorials/codes/hello.c",
+		"/Users/xiaoqian/Library/Application Support/Sublime Text 2/Packages/User/my_c++.sublime-build",
+		"/Users/xiaoqian/Dropbox/Unsorted/tutorials/codes/hello.sublime-workspace",
+		"/Users/xiaoqian/Dropbox/Unsorted/tutorials/codes/hello.sh",
+		"/Users/xiaoqian/Library/Application Support/Sublime Text 2/Packages/User/spaceremoval.sh",
+		"/Users/xiaoqian/Dropbox/Coding&JobHunting/my_batch.sublime-build",
+		"/Users/xiaoqian/Dropbox/Coding&JobHunting/my_C++.sublime-build",
+		"/Users/xiaoqian/Dropbox/Git/thesis/main.bib",
+		"/Users/xiaoqian/Dropbox/Git/thesis/main.tex",
+		"/Users/xiaoqian/Desktop/Exported Items.bib",
+		"/Users/xiaoqian/Dropbox/Git/thesis/chap1.tex",
+		"/Users/xiaoqian/Dropbox/Git/thesis/mitthesis.cls",
+		"/Users/xiaoqian/Dropbox/Unsorted/tutorials/codes/Demo.cpp",
+		"/Users/xiaoqian/Dropbox/Git/thesis/cover.tex",
+		"/Users/xiaoqian/Dropbox/Git/thesis/biblio.tex",
+		"/Users/xiaoqian/Dropbox/Git/thesis/main.bib.info",
+		"/Users/xiaoqian/Dropbox/Git/thesis/chap1-copy.tex",
+		"/Users/xiaoqian/Dropbox/Git/thesis/README.main",
+		"/Users/xiaoqian/Dropbox/Git/thesis/README.text",
+		"/Users/xiaoqian/Dropbox/Git/thesis/writing.txt",
+		"/Users/xiaoqian/Dropbox/Git/thesis/chap1-example.tex",
+		"/D/Dropbox/Git/thesis/main-copy.bib",
+		"/C/Users/Xiao Qian/Desktop/Sublime Text Build 3059/Data/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Xiao Qian/Desktop/Sublime Text Build 3059/Data/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Xiao Qian/Desktop/Sublime Text Build 3059/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Xiao Qian/Desktop/Sublime Text Build 3059/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Dropbox/Git/thesis/chap1.tex",
+		"/D/Dropbox/Git/thesis/cover.tex",
+		"/D/Dropbox/Git/thesis/mitthesis.cls",
+		"/D/Dropbox/Git/thesis/thesis.sublime-project",
+		"/D/Dropbox/Git/thesis/chap1-example.tex",
+		"/C/Users/Xiao Qian/Desktop/Sublime Text Build 3059/Data/Packages/LaTeXTools/Default (Windows).sublime-keymap",
+		"/D/Dropbox/Git/thesis/abstract.tex",
+		"/C/Users/Xiao Qian/Desktop/test.tex",
+		"/D/Dropbox/Git/thesis/contents.tex",
+		"/C/Users/Xiao Qian/Desktop/Sublime Text Build 3059/Data/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/Xiao Qian/Desktop/Sublime Text Build 3059/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Xiao Qian/Desktop/Sublime Text Build 3059/Data/Packages/LaTeXTools/README.markdown",
+		"/C/Users/Xiao Qian/Desktop/Sublime Text Build 3059/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Dropbox/Git/thesis/appa.tex",
+		"/C/Users/Xiao Qian/Desktop/Sublime Text Build 3059/Data/Packages/LaTeXing/LaTeX.sublime-build",
+		"/D/Dropbox/Git/thesis/main.tex",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/app/cac.py",
+		"/Users/xiaoqian/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/xiaoqian/Dropbox/Git/thesis/abstract.tex",
+		"/Users/xiaoqian/Dropbox/Git/thesis/contents.tex",
+		"/Users/xiaoqian/Dropbox/Git/thesis/thesis.sublime-project",
+		"/Users/xiaoqian/Dropbox/Git/thesis/lgrind.sty",
+		"/Users/xiaoqian/Dropbox/Git/thesis/README.md",
+		"/Users/xiaoqian/Dropbox/Git/thesis/README.bibliography",
+		"/Users/xiaoqian/Dropbox/Git/thesis/main.log",
+		"/Users/xiaoqian/Dropbox/Git/thesis/usepackages.tex",
+		"/Users/xiaoqian/Dropbox/Git/thesis/main.aux",
+		"/Users/xiaoqian/Dropbox/Git/thesis/appa.tex",
+		"/Users/xiaoqian/Desktop/test.tex",
+		"/Users/xiaoqian/Dropbox/Git/thesis/main.toc",
+		"/Users/xiaoqian/Dropbox/Git/thesis/ch1.tex",
+		"/Users/xiaoqian/Dropbox/Git/thesis/thesis.sublime-workspace",
+		"/Users/xiaoqian/Dropbox/research/Collaborative Access Control/collaborative_decision_making/network.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/app/__init__.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/Procfile",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/run-heroku.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/app/views.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/app/templates/index.html",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/test.py",
+		"/Users/xiaoqian/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/xiaoqian/Desktop/SublimeIPython-master/install.txt",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/db_repository/versions/001_migration.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/db_create.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/app/db_create.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/app/db_migrate.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/app/data.py",
+		"/Users/xiaoqian/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/app/model.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/app/templates/untitled",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/run.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/view.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/__init__.py",
+		"/Users/xiaoqian/Desktop/Flask-Heroku-RQify-0.2/flask_rqify.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/utils.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/worker.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/hello.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/myfunc.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/rq_test.py",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/requirements.txt",
+		"/Users/xiaoqian/Dropbox/research/Web_codes/Workspace/helloflask/.gitignore",
+		"/Users/xiaoqian/Desktop/hello.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"As",
+			"This thesis is structured into two parts. Part I covers privacy-aware data publishing techniques for protecting user's privacy as OSN data is being collected and used for specific intention. Part II is orthogonal to the first part, which investigates new access control tools for facilitating individual user in configuring privacy setting in OSN sites.\n",
+			"control",
+			"url",
+			"submit",
+			"here",
+			"ctrl+space",
+			"\\MI",
+			"\\MIT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 134.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"src/experiments/marginals/Bayes_marginals.java"
+			],
+			[
+				"cha",
+				"chap1.tex"
+			],
+			[
+				"cov",
+				"cover.tex"
+			],
+			[
+				"ab",
+				"abstract.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}
